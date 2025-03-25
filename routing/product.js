@@ -25,7 +25,7 @@ const renderAddProductPage = (response) => {
     response.write(`
             <html>
                 <head>
-                    <title>Shop - Logout</title>
+                    <title>Shop - Add Product</title>
                 </head>
                 <body>
                     <h1>Add Product</h1>

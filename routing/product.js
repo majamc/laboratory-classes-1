@@ -28,7 +28,7 @@ const renderAddProductPage = (response) => {
                     <title>Shop - Logout</title>
                 </head>
                 <body>
-                    <h1>Logout</h1>
+                    <h1>Add Product</h1>
                     <nav>
                         <a href="/product/add">Add product</a>
                         <a href="/product/new">Newest product</a>
